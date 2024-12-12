@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "dragon-news-portal-60882",
+    "development": "dragon-news-portal-60882"
+  },
+  "targets": {},
+  "etags": {}
+}
